@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>Notas Fiscais</h3>
+
+<input type="file" id="myFile">
+
+<p>Atualizar dashboard grafana.</p>
+
+<button onclick="myFunction()">OK</button>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myFile");
+  x.disabled = true;
+}
+</script>
+
+</body>
+</html>
