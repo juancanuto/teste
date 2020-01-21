@@ -1,7 +1,0 @@
-<h3>Notas Fiscais</h3>
-
-<input type="file" id="myFile">
-
-<p>Atualizar dashboard grafana.</p>
-
-<button onclick="myFunction()">OK</button>
